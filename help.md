@@ -1,0 +1,1 @@
+# If you need anymore additional help with this bot such as setting up, add me on discord - deleted_account489h23239328 or galactus136. if i don't respond join this server -> https://discord.gg/breed-bot

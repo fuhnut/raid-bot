@@ -15,14 +15,14 @@
 ### prerequisites
 
 - node.js v18 or higher
-- bun runtime (or you can use NPM with tsx, just modify package.json)
+- bun runtime (or you can use NPM, although i recommend bun.)
 - a discord bot token
 
 ### setup
 
 1. clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/fuhnut/raid-bot
    cd 767-v3
    ```
 
@@ -37,17 +37,17 @@
 
 4. build the project:
    ```bash
-   bun run build
+   bun/npm run build
    ```
 
 5. deploy commands:
    ```bash
-   bun run deploy
+   bun/npm run deploy
    ```
 
 6. start the bot:
    ```bash
-   bun run start
+   bun/npm run start
    ```
 
 ## configuration
@@ -77,8 +77,8 @@ or use environment variables:
 ### linting
 
 ```bash
-bun run lint
-bun run lint:fix
+bun/npm run lint
+bun/npm run lint:fix
 ```
 
 ### project structure

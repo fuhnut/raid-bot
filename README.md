@@ -1,4 +1,4 @@
-# a fast raid bot built with seyfert. bot can spam 6 messages up to per button press.
+# a fast raid bot built with seyfert. bot can spam 6 messages up to per button press
 
 ## features
 

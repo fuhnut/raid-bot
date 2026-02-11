@@ -1,4 +1,4 @@
-# a fast raid bot built with seyfert
+# a fast raid bot built with seyfert. bot can spam 6 messages up to per button press.
 
 ## features
 
@@ -70,22 +70,10 @@ or use environment variables:
 - `/raid` - start a basic server raid
 - `/custom-r4id` - raid using a saved message preset
 - `/flood <message>` - flood the channel with a custom message
-- `/thug` - start a thug-themed raid
-
-### utility commands
-
+- `/thug` - spam thug porn
 - `/say <message>` - send a message through the bot
 - `/filespam` - upload and spam files
 - `/presetmessage` - manage message presets (add/edit/remove)
-
-### component interactions
-
-- click buttons to execute raids
-- use modals to create/edit presets
-- upload files through interactive components
-
-## development
-
 ### linting
 
 ```bash
